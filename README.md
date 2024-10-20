@@ -23,7 +23,7 @@ This project implements a real-time number plate recognition system using OpenCV
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/number-plate-recognition.git
+    git clone [https://github.com/karthick-V-212223040086/RealTime-Plate-Recognition.git]
     cd number-plate-recognition
     ```
 
