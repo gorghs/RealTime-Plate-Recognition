@@ -58,9 +58,11 @@ The main components of the script are:
 - **OCR Processing**: Pytesseract is employed to recognize text from the processed images of number plates.
 - **Results Handling**: The script avoids duplicate entries and saves recognized plates in an Excel file.
 
+
 ## Contributing
 
 Feel free to contribute by submitting issues, feature requests, or pull requests!
+-- if you have   any quires feel  free.. if you have blocked accound no probelm ill create my own pull request too
 
 ## Acknowledgements
 
